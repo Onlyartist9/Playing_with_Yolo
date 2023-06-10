@@ -10,7 +10,7 @@ Bro all I saw are people asking for help on their YOLO models.
 
 Wtf is a YOLO model?
 
-The above sentence is why I created this repo. Kind of wanted an understanding of the model and what it's capabilities are.
+The above sentence is why I created this repo. Kind of wanted an understanding of the model and what its capabilities are.
 
 To run this demo locally
 
