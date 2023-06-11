@@ -1,6 +1,8 @@
 # Playing_with_Yolo
 Exploration of the Yolo Machine Learning model including associated demo.
 
+![Yolo in action](https://github.com/Onlyartist9/Playing_with_Yolo/blob/main/assets/Screenshot%202023-06-11%20113450.png)
+
 ### How I found out about this model.
 So imagine you're me. You want to test some newfound AI knowledge beyond the mere textbook,or Kaggle contest. 
 You become familiar with allll and I mean nearly all... ok some of the popular/modern Computer Vision models whether it be SAM(Segment Anything Model),
