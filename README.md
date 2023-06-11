@@ -20,5 +20,7 @@ To run this demo locally
  3. pip install -r requirements.txt
  2. streamlit run Playing_with_yolo.py
 ```
+Now there are a few technicalities depending on what distribution/OS you are running. If you're using windows, locate the comment
+regarding fonts in the for loop of the Playing_with_yolo.py file and handle the comments as directed. If you use a Linux based distro you should be good to go.
 
 You can also play with the model [here](https://onlyartist9-playing-with-yolo-playing-with-yolo-ikg2jm.streamlit.app/).
