@@ -20,3 +20,5 @@ To run this demo locally
  3. pip install -r requirements.txt
  2. streamlit run Playing_with_yolo.py
 ```
+
+You can also play with the model [here](https://onlyartist9-playing-with-yolo-playing-with-yolo-ikg2jm.streamlit.app/).
