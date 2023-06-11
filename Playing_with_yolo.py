@@ -36,7 +36,7 @@ if uploaded_file is not None:
         draw.rectangle(box, outline="red", width=3)
         # write the class name and confidence score above the object
         text = f"{model.config.id2label[label.item()]}: {round(score.item(), 3)}"
-        font = ImageFont.truetype("arial.otf", size=16)
+        font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf", size=16)
         text_width, text_height = font.getsize(text)
         draw.rectangle([box[0], box[1] - text_height - 4, box[0] + text_width + 4, box[1]], fill="red")
         draw.text((box[0] + 2, box[1] - text_height - 2), text, fill="white", font=font)
