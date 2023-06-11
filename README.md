@@ -8,7 +8,7 @@ So imagine you're me. You want to test some newfound AI knowledge beyond the mer
 You become familiar with allll and I mean nearly all... ok some of the popular/modern Computer Vision models whether it be SAM(Segment Anything Model),
 or some other framework like OpenCV. Then you decide to freelance to put your skills to test. 
 
-Bro all I saw are people asking for help on their YOLO models. 
+Bro all I saw were people asking for help on their YOLO models. 
 
 Wtf is a YOLO model?
 
